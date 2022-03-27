@@ -9,4 +9,5 @@ on windows you need to have a 'Mac computer' to built an 'ios' app.
    https://reactnative.dev/docs/environment-setup
    ```
 
-`npm run eject` if you don't want to use `expo Client`
+`npm run eject` if you don't want to use `expo Client`, what it will do is to make an 'IoS and Android' native code in the parent directory. so we can load-up 'IoS' code through 'x-code'  and 'Android' code through 'Android Studio'.
+
